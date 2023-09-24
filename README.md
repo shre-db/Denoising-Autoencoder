@@ -20,5 +20,5 @@ In this project, both options are explored seperately in two dedicated notebooks
 
 
 **References**
-1. [Dor Bank, Noam Koenigstein, Raja Giryes, "Autoencoders" arXiv:2003.05991 [cs.LG], DOI: https://doi.org/10.48550/arXiv.2003.05991](https://arxiv.org/abs/2003.05991)
+1. Bank, D., Koenigstein, N., & Giryes, R. (2021). *Autoencoders*. arXiv:2003.05991 [cs.LG], DOI: https://doi.org/10.48550/arXiv.2003.05991
 
